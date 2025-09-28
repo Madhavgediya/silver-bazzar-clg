@@ -1,4 +1,4 @@
-const backendDomin = process.env.BACKEND_DOMAIN || "http://localhost:5000" 
+const backendDomin = process.env.BACKEND_DOMAIN || "https://silver-bazzar-clg-vp11.vercel.app" 
 
 const SummaryApi = {
     signUP : {
